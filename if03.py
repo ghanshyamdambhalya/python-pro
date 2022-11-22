@@ -2,4 +2,4 @@
 letter = str(input("Enter the letter"))
 if letter=='a':
     print("It is first letter of abcd")
-print("good bye")
+print("good bye");

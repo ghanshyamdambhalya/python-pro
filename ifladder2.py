@@ -23,4 +23,4 @@ elif month == 11:
 elif month == 12:
     print("This month have 31 days")
 else:
-    print("This month have 28 or 29 days");
+    print("This month have 28 or 29 days")

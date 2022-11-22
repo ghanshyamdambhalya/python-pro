@@ -3,4 +3,4 @@ temperature = float(input("Enter the value of body temperature"))
 if temperature > 100.2:
     print("You have a high grade fever")
 else:
-    print("You are normal");
+    print("You are normal")

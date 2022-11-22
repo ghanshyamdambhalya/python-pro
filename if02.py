@@ -2,4 +2,4 @@
 month=int(input("Enter the month"))
 if month==2:
     print("This month has 28 or 29 days")
-print("good bye")
+print("good bye");

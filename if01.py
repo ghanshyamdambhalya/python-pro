@@ -5,4 +5,4 @@ age = int(input(" Enter your age "))
 if age >= 18 :
     print("you are eligible for votiing")
     
-print("good bye")
+print("good bye");
